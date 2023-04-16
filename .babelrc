@@ -1,0 +1,6 @@
+{
+    "presets": [
+        // presets是插件的集合，主要把高级语法转为低级语法，如e6->es5
+        "@babel/preset-env"
+    ]
+}
